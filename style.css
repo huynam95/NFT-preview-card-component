@@ -131,6 +131,7 @@ select {
   margin-bottom: calc(24rem / 16);
 
   font-size: calc(20rem / 16);
+  font-weight: 600;
 
   color: hsl(0, 0%, 100%);
 
@@ -158,6 +159,7 @@ select {
 
 .eth-text {
   font-size: calc(14rem / 16);
+  font-weight: 600;
 
   color: hsl(178, 100%, 50%);
 
